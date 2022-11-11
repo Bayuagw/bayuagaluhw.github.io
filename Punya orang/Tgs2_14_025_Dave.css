@@ -1,0 +1,47 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+table{
+    background-color:dimgrey;
+    width: 600px;
+}
+
+h2 {
+    font-size: 15px;
+
+}
+
+.foto{
+    border: 5px solid black;
+    width: 113px;
+    height: 150px;
+    text-align: center;
+}
+
+.profesi{
+    text-align: center;
+}
+
+.biodata{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.kata{
+    text-align: justify;
+}
+
+.nama, #tentangsaya, #pengalaman, #pendidikan, #kontak{
+    text-align: center;
+}
+
+ol{
+    padding: 35px;
+}
+
+a{
+    text-decoration: none;
+}
+
